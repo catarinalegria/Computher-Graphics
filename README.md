@@ -1,4 +1,4 @@
-# Computher-Graphics
+# Computher-Graphics 1
 1st project of my Computher Graphics course
 
 # Project description
